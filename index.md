@@ -7,7 +7,7 @@ I am a computer science major at Cal State Fullerton and I plan on graduating in
 
 * Lab 1 Part 1:
 
-    I liked this lab because it was a simple yet thorough introduction to the work we would be doing in this class as well as a good hands-on way of starting programming in C++. It was also my first time ever doing the pair-programming system so it was a good way of getting to try out being both the driver and navigator on material that was quite simple rather than being thrown into this new system and being overwhelmed by the material. I learned a lot from this rather quick lab, namely being able to be integrated into Linux programming with C++, learning crucial steps such as cloning the git repository and pushing code to Github, steps which we would continue doing for the remainder of the semester.
+    I liked this lab because it was a simple yet thorough introduction to the work we would be doing in this class as well as a good hands on way of starting programming in C++. It was also my first time ever doing the pair-programming system so it was a good way of getting to try out being both the driver and navigator on material that was quite simple rather than being thrown into this new system and being overwhelmed by the material. I learned a lot from this rather quick lab, namely being able to be integrated into Linux programming with C++, learning crucial steps such as cloning the git repository and pushing code to Github, steps which we would continue doing for the remainder of the semester.
 
 * Lab 7, Part 1:
 
